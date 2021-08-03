@@ -20,6 +20,7 @@ Y = D - R
 T = ["a1", "a2", "a3", "a4", "a5", "a6", "a7", "b1", "b2", "b3", "c1", "c2"]
 Xm=np.mean(X)#到了添加0刻线和阈值这一步
 22233
+2222222
 # fig=plt.figure(figsize=(8,6)) #新建画布
 # ax=plt.subplot(1,1,1) #子图初始化
 # ax.scatter(X,Y) #绘制散点图
