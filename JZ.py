@@ -1,8 +1,8 @@
-import pandas as pd
-import numpy as np
-
-import matplotlib.pyplot as plt
-import matplotlib.pylab as pyl
+# import pandas as pd
+# import numpy as np
+#
+# import matplotlib.pyplot as plt
+# import matplotlib.pylab as pyl
 
 
 data: object = pd.read_excel('I.xls')
