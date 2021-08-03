@@ -5,8 +5,8 @@
 # import matplotlib.pylab as pyl
 
 
-data: object = pd.read_excel('I.xls')
-I = data.values
+# data: object = pd.read_excel('I.xls')
+# I = data.values
 
 B = pd.read_excel('B.xls')
 B = B.values
@@ -19,7 +19,7 @@ X = D + R
 Y = D - R
 T = ["a1", "a2", "a3", "a4", "a5", "a6", "a7", "b1", "b2", "b3", "c1", "c2"]
 Xm=np.mean(X)#到了添加0刻线和阈值这一步
-
+22233
 # fig=plt.figure(figsize=(8,6)) #新建画布
 # ax=plt.subplot(1,1,1) #子图初始化
 # ax.scatter(X,Y) #绘制散点图
